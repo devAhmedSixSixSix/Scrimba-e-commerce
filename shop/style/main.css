@@ -1,0 +1,9 @@
+.categories-name ul li {
+    cursor: pointer;
+}
+
+.category {
+    background-image: url("../../globalIMAGE/shopBanner.jpg");
+    background-size: cover;
+    height: 70vh;
+}

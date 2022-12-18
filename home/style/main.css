@@ -1,0 +1,11 @@
+.hero {
+  background-image: linear-gradient(40deg, #fba48f, #6e99fc);
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  border-radius: 200px 0 0 0;
+}
+
+
