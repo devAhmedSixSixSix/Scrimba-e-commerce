@@ -34,7 +34,7 @@ const getAllProduct = async () => {
 
 const printAllProduct = (data) => {
   const allProduct = document.querySelector(".all-product");
-  data.products.slice(0, 8).map((item) => {
+  data.products.map((item) => {
     allProduct.innerHTML += `
       <div class="col-sm-12 col-md-6 col-lg-3 my-3">
           <img src="${

@@ -90,3 +90,23 @@
   color: #fff;
   text-decoration: none;
 }
+
+/* start Animation */
+.fade-in {
+  opacity: 0;
+  transition: 350ms ease-in;
+}
+
+.fade-in.show {
+  opacity: 1;
+}
+
+
+.nav-scroll {
+  background: #f6fbff;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 11px;
+  transition: 500ms ease-in-out;
+  z-index: 9999;
+}
+
+/* end animation */
