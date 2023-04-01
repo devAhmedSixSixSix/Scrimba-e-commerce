@@ -7,7 +7,7 @@
 </p>
 
 ## About The Project
-The main challenge is to build out this landing page and get it looking as close to the design as possible with some animation and hover effect.
+The main challenge is to build out this e-commerce website and get it looking as close to the design as possible with some animation and hover effect.
 
 Users should be able to:
 
